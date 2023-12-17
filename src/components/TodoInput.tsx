@@ -58,7 +58,7 @@ export default TodoInput;
 const TodoInputContainer = styled.div`
   width: 100%;
   height: 60px;
-  margin: 5px 10px;
+  margin: 5px 0;
   padding: 8px 50px;
   border-radius: 15px;
   background: #afafaf;
